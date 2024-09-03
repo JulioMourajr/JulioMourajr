@@ -1,8 +1,24 @@
-### Hi there 👋
+👋 Olá, eu sou o Júlio Moura
 
-- 🔭 I’m currently working at TV GAZETA DE ALAGOAS.
-- 🌱 I’m currently learning linux, Networking, docker, kubernetes, AWS. 
-- 🤔 I’m looking for help with Kubernetes, Docker and AWS.
-- 💬 Ask me about everything.
-- 📫 How to reach me: @juliomourajr11 on instagram and twitter.
+Atualmente, estou expandindo meus conhecimentos em DevOps e arquitetura de microserviços, buscando sempre aplicar as melhores práticas de desenvolvimento.
+
+🚀 Tecnologias e Ferramentas
+
+Linguagens: JavaScript, TypeScript
+Back-End: Node.js, Express, Sequelize
+Banco de Dados: PostgreSQL, MongoDB
+DevOps: Docker, CI/CD (estudando), Redes, Git, Github Actions.
+
+🎓 Educação
+Análise e Desenvolvimento de Sistemas - Centro Universitário Internacional Uninter
+💼 Experiência
+Tenho experiência na construção de APIs RESTful, integrações com bancos de dados relacionais e NoSQL, além de estudos em metodologias ágeis e práticas de DevOps para automação de processos.
+
+🌱 Atualmente
+Estou estudando e aplicando conhecimentos em Docker e CI/CD, Redes, Kubernetes, buscando uma oportunidade para ingressar na área de DevOps como profissional júnior.
+
+📫 Contato
+LinkedIn: linkedin.com/in/juliomourajr
+GitHub: github.com/JulioMourajr
+
 
