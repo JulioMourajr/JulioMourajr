@@ -11,6 +11,7 @@ DevOps: Docker, CI/CD (estudando), Redes, Git, Github Actions.
 
 🎓 Educação
 Análise e Desenvolvimento de Sistemas - Centro Universitário Internacional Uninter
+
 💼 Experiência
 Tenho experiência na construção de APIs RESTful, integrações com bancos de dados relacionais e NoSQL, além de estudos em metodologias ágeis e práticas de DevOps para automação de processos.
 
